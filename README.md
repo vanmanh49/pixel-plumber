@@ -2,6 +2,8 @@
 
 A Mario-style platformer for the browser. Original characters and art. No assets, no dependencies, no build step.
 
+![Pixel Plumber gameplay: the plumber running past ? blocks, coins and a goomba in world 1-1](docs/screenshot.png)
+
 ## Run
 
 ```
